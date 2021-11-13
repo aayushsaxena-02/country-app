@@ -1,3 +1,11 @@
+i wasnt able to complete full website as im at home
+really sorry for it
+and razor pay payment i created in postman but im unable to integrate postman and github and time is getting up, 
+payment portal is working on local device for sure
+
+give me a chance i will definently stood upon that
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
